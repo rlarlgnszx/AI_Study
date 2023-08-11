@@ -5,7 +5,7 @@
 ### zeroshot? ZSC라고 불리는듯?
 
 - zero shot 분류는 다른 클래스에 대한 사전교육이나 지식없이 이미지와 텍스트를 여러 범주중 하나로 분류하는 작업
-https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Untitled.png?raw=true
+
 ![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Untitled.png?raw=true)
 
 - 사전 훈련된 딥러닝 모델은 새로운 샘플의 범주를 일반화하도록 만들어짐
