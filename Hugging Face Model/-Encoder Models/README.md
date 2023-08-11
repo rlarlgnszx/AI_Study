@@ -36,8 +36,7 @@
 - span 기반 동적 컨볼루션을 통해 bert 개선
 - bert에 혼합 어텐션 을 적용함
 
-![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Hugging%20Face%20Model/-Encoder%20Models%20/Untitled.png)
-
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Hugging%20Face%20Model/-Encoder%20Models/Untitled.png?raw=true)
 [3_5_ConvBERT.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Hugging%20Face%20Model/-Encoder%20Models%20/3_5_ConvBERT.ipynb)
 
 ## XLM-RoBERTa
