@@ -2,12 +2,12 @@
 
 # One-to-Many
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled.png?raw=true)
 
 - 이미지가 있고 이미지의 대한 캡션
 - 감성 분석 결과? → 트윗 예측
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%201.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%201.png?raw=true)
 
 ## Intuition
 
@@ -16,14 +16,14 @@
 
 ## 어떻게 작동하는가?
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%202.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%202.png?raw=true)
 
 - CNN을 처음 쓴다.
 
 1. CNN으로 이미지 읽고 embeding 처리
 2. 이 embedding은 RNN에 embdedding
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%203.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%203.png?raw=true)
 
 - a0 편향으로 봄
 - RNN cell이 입력 sequence를 수신
@@ -32,17 +32,17 @@
 - 양방향 RNN도있음
   - backbone 수행하는 RNN
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%204.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%204.png?raw=true)
 
 # Many-to-One
 
-[Music_Recommendation_System.ipynb](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Music_Recommendation_System.ipynb)
+[Music_Recommendation_System.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Music_Recommendation_System.ipynb)
 
 ## RNN e다대일 모델
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%205.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%205.png?raw=true)
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%206.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%206.png?raw=true)
 
 - 트윗 → 감정분석
 - 하나의 출력을 만들기 위해 여러 입력이 필요할때
@@ -52,7 +52,7 @@
 - 콘텐츠 기반 알고리즘
 - 변환 및 전체 파이파린구성
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%207.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%207.png?raw=true)
 
 - non-API
 - ex) 노래의 손실 시퀀스를 기반으로 다음 노래에 대한 피쳐 벡터를 결정
@@ -65,16 +65,16 @@
 
 # Many-to-Many
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%208.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%208.png?raw=true)
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%209.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%209.png?raw=true)
 
 - 다대다 하위 프로세스 사용
 
 # Sequence to Sequence
 
-[Machine_Translation.ipynb](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Machine_Translation.ipynb)
+[Machine_Translation.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Machine_Translation.ipynb)
 
-![Untitled](https://raw.githubusercontent.com/rlarlgnszx/AI_Study/main/Transformer/RNN%20Model%206ba15dbee48e46c9861816ede291accb/Untitled%2010.png)
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/RNN%20Model/Untitled%2010.png?raw=true)
 
 - machine Translation
