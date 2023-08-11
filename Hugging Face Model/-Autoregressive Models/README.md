@@ -13,7 +13,7 @@ hugging face로 GPT-2 text 생성
 - gpt2 자체는 비지도 다중학습기
 - ‘Laguage Models are Unsupervised Multitask Learners 논문
 - gpt2의 학습방법을 알수있음
-https://github.com/rlarlgnszx/AI_Study/blob/main/Hugging%20Face%20Model/-Autoregressive%20Models/2_2_Transformer_XL.ipynb
+
 [2_1_GPT2.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Hugging%20Face%20Model/-Autoregressive%20Models/2_1_GPT2.ipynb)
 
 ## Transformer_XL을 사용한 label 분류
