@@ -5,8 +5,8 @@
 ### zeroshot? ZSC라고 불리는듯?
 
 - zero shot 분류는 다른 클래스에 대한 사전교육이나 지식없이 이미지와 텍스트를 여러 범주중 하나로 분류하는 작업
-
-![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Untitled.png)
+https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Untitled.png?raw=true
+![Untitled](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Untitled.png?raw=true)
 
 - 사전 훈련된 딥러닝 모델은 새로운 샘플의 범주를 일반화하도록 만들어짐
     - 즉 새로운 범주가 들어올 경우 기존이 있는 범주안에서 분류가 됌
@@ -16,15 +16,15 @@
     - 2가지를 합친다.
 - 이것을 통해 pretrain model을 사용가능
 
-[Zero_Shot_Classification.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Zero_Shot_Classification.ipynb)
+[Zero_Shot_Classification.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Zero_Shot_Classification.ipynb)
 
 ## MIMO
 
-[MIMO.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/MIMO.ipynb)
+[MIMO.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/MIMO.ipynb)
 
 ## Text Summrization#Hugging face
 
-[Text_Summarization.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Text_Summarization.ipynb)
+[Text_Summarization.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Text_Summarization.ipynb)
 
 ## Masked Word Completion # BERT #건너뜀 다시해
 
@@ -32,15 +32,15 @@
 
 ## 주크박스 사용
 
-[Music_Generation_With_Encoders.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Music_Generation_With_Encoders.ipynb)
+[Music_Generation_With_Encoders.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Music_Generation_With_Encoders.ipynb)
 
 ## Time Series Anomaly Detection
 
-[Time_Series_Anomaly_Detection.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Time_Series_Anomaly_Detection.ipynb)
+[Time_Series_Anomaly_Detection.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Time_Series_Anomaly_Detection.ipynb)
 
 ## Transformer image Recognition
 
-[Transformer_for_Image_Recognition.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Transformer_for_Image_Recognition.ipynb)
+[Transformer_for_Image_Recognition.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Transformer_for_Image_Recognition.ipynb)
 
 ## 바닐라 트랜스포머는 vision에 사용하기 어려움
 
@@ -48,14 +48,14 @@
 
 ## Pyramid Transformer
 
-[Pyramid_Transformer.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Pyramid_Transformer.ipynb)
+[Pyramid_Transformer.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Pyramid_Transformer.ipynb)
 
 ## Spatial Transformer # 데이터 관련
 
-[Spatial_Transformer_Network.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Spatial_Transformer_Network.ipynb)
+[Spatial_Transformer_Network.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Spatial_Transformer_Network.ipynb)
 
 ## Vit # Vision Transfomer
 
-[Finetuning_ViT_for_image_classification.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex%2013699ceb4c3d4c72867879db005ed46e/Finetuning_ViT_for_image_classification.ipynb)
+[Finetuning_ViT_for_image_classification.ipynb](https://github.com/rlarlgnszx/AI_Study/blob/main/Transformer/Transformer%20Ex/Finetuning_ViT_for_image_classification.ipynb)
 
 ## Yolo v8
